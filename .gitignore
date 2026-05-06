@@ -5,3 +5,5 @@ build/
 .env.local
 .DS_Store
 Thumbs.db
+# Working files (not for deploy)
+IMAGEN FINAL.png
